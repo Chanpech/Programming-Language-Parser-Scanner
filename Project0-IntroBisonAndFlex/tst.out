@@ -1,0 +1,24 @@
+index is 0
+Insert( ) returns index 0 key d
+,P is not NULL
+P is not NULL
+P is not NULL
+P is not NULL
+P is not NULL
+P is not NULL
+P is not NULL
+Parser Address 0x21205d0 parse successful: ((d)=(1.000000))
+evaluates to: 1.000000
+P is not NULL
+Parser Address 0x2120700 parse successful: ((dd)=((24.000000)+(20.000000)))
+evaluates to: 44.000000
+P is not NULL
+Parser Address 0x2120850 parse successful: ((d)=((dd)-((d)*(3.000000))))
+evaluates to: 41.000000
+P is not NULL
+Parser Address 0x2120940 parse successful: ((d)=((d)+(dd)))
+evaluates to: 85.000000
+P is not NULL
+Parser Address 0x2120a30 parse successful: (((d)+(1.000000))/(2.000000))
+evaluates to: 43.000000
+P is not NULL

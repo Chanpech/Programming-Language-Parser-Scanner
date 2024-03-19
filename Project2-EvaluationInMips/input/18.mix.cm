@@ -1,0 +1,16 @@
+int i,j,k,l,m,n;
+
+int main () {
+   write("i = ");
+   read(i);
+   write("j = ");
+   read(j);
+   write("k = ");
+   read(k);
+   write("l = ");
+   read(l);
+   write("m = ");
+   read(m);
+   n = k < j + l && (!(i!=k));
+   write(n);
+}

@@ -1,0 +1,6 @@
+The goal of this project is to gain experience in giving meaning to a programming language by interpreting a subset of Cminus. 
+Interpretation involved integer, string, identifier, logic expression, assignment, and I/O.
+
+The two files modified to achieve for this are:
+CminusParser.y
+CminusScanner.l

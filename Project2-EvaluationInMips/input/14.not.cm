@@ -1,0 +1,13 @@
+int i,j;
+int main () {
+
+	i=1; j=0;
+
+	write(i);
+	write(!j);
+	write(j);
+	write(!i);
+	write(i);
+	write(!j);
+
+}
